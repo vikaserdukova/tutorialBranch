@@ -1,13 +1,5 @@
 # tutorialBranch
 # multiplication
-yummy = 'Yam'
-print(yummy * 3)
-print(yummy.upper())
-print(yummy.lower())
-print(yummy)
-long_string = 'This is the long string'
-print(long_string.split('s')) 
-#
 letter_list = [letter for letter in greeting]
 print(letter_list)
 number_list = [number for number in '0123456789']
